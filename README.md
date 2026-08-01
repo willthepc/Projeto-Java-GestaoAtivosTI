@@ -8,11 +8,15 @@ API REST desenvolvida em Spring Boot para o controle de equipamentos (ativos de 
 - **Spring Boot 4.0.0**
   - Spring Web (MVC)
   - Spring Data JPA
-- **PostgreSQL** (perfis de desenvolvimento/produção)
 - **H2 Database** (perfil de testes, em memória)
 - **Lombok**
 - **springdoc-openapi** (Swagger UI)
 - **Maven**
+
+![Java](https://img.shields.io/badge/Java-25-orange?logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4.0.0-6DB33F?logo=springboot&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-build-C71A36?logo=apachemaven&logoColor=white)
+![License](https://img.shields.io/badge/license-MIT-blue)
 
 ## 📐 Arquitetura
 
