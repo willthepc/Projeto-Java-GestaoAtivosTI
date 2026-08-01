@@ -25,7 +25,7 @@ public class TestConfig implements CommandLineRunner {
     @Override
     public void run(String... args) throws Exception {
         Funcionario f1 = new Funcionario(null, "William", "Desenvolvimento", "william@empresa.com");
-        Funcionario f2 = new Funcionario(null, "Mari Medeiros", "Suporte", "mari.medeiros@empresa.com");
+        Funcionario f2 = new Funcionario(null, "Rodrigo Medeiros", "Suporte", "rodrigo@empresa.com");
         Funcionario f3 = new Funcionario(null, "Bruno", "QA", "bruno@empresa.com");
         Funcionario f4 = new Funcionario(null, "Fernando", "Gestão", "fernando@empresa.com");
 
